@@ -14,10 +14,3 @@ Este script em Python realiza uma verificação completa de conectividade com um
 - 📁 Geração automática de relatório em `relatorio_conexao.log`
 
 ---
-
-## 🚀 Como usar
-
-1. Instale os requisitos (nativos do Python, sem dependências externas):
-
-```bash
-python3 vpc.py
